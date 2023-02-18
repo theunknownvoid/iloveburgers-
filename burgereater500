@@ -1,3 +1,4 @@
+local burger = game.Workspace.purchase
 while burgerfarm do
     task.wait()
     for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
