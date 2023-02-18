@@ -17,4 +17,4 @@ while burgerfarm do
     end
     end
 end
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer('aghh i love gorillass', 'All')
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer('gorillerz', 'All')
